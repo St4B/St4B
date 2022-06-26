@@ -5,7 +5,7 @@ Android Engineer. Highly interested in experimenting with different technologies
 - 🔭 I’m currently working on Blueground
 - 🌱 I’m currently learning Jetpack Compose & Go
 - 👯 I’m looking to collaborate on any open source library
-- 💬 Ask me about anything about coding 
+- 💬 Ask me anything about coding 
 - 📫 How to reach me: vaios.tsitsonis@gmail.com
 - 😄 Pronouns: he/him                        
 
